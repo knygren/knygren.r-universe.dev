@@ -1,0 +1,5 @@
+{
+  "public": true,
+  "description": "Provides independent and identically distributed (iid) samples for Bayesian Generalized Linear Models (GLMs)",  
+  "url": "https://github.com/knygren/glmbayes"  
+}

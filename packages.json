@@ -1,6 +1,10 @@
-[ 
-        {
-        "package": "glmbayes",
-        "url": "https://github.com/knygren/glmbayes"
-        }
+[
+  {
+    "package": "glmbayes",
+    "url": "https://github.com/knygren/glmbayes"
+  },
+  {
+    "package": "nmathopencl",
+    "url": "https://github.com/knygren/nmathopencl"
+  }
 ]

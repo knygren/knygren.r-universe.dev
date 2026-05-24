@@ -7,4 +7,9 @@
     "package": "nmathopencl",
     "url": "https://github.com/knygren/nmathopencl"
   }
+  {
+    "package": "nmathopencl",
+    "url": "https://github.com/knygren/opencltools"
+  }
 ]
+

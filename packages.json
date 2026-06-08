@@ -10,6 +10,10 @@
   {
     "package": "opencltools",
     "url": "https://github.com/knygren/opencltools"
+  },
+    {
+    "package": "glmbayesCore",
+    "url": "https://github.com/knygren/glmbayesCore"
   }
 ]
 

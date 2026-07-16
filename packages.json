@@ -15,6 +15,10 @@
     "package": "glmbayesCore",
     "url": "https://github.com/knygren/glmbayesCore"
   },
+      {
+    "package": "lmebayesCore",
+    "url": "https://github.com/knygren/lmebayesCore"
+  },
 {
     "package": "lmebayes",
     "url": "https://github.com/knygren/lmebayes"
